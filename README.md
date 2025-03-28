@@ -80,7 +80,7 @@
         <h1>生日快乐！</h1>
         <img src="QQ图片2023.jpg" alt="生日祝福图片">
         <!-- QQ图片2023.jpg-->
-        <img src="E:\浏览器下载文件\新建文件夹\Doubao\代码\QQ图片2023.jpg.jpg" alt="另一张生日图片">
+        <img src="QQ图片2023.jpg.jpg" alt="另一张生日图片">
         <p>亲爱的朋友，在你生日这一特别的日子里，我想让你知道你对我而言有多么重要。愿你的这一岁，能够找到更多的快乐、实现更多的梦想、收获更多的爱。</p>
         <a href="#" class="btn" onclick="startFireworks()">庆祝起来！</a>
     </div>
